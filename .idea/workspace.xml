@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fe7a1c-ae63-4933-b49a-26ac268f73e2" name="Changes" comment="all">
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/svg_part2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/test_svg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/try_except_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/Selectbox_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Selectbox_dropdown.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,34 +50,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for KatalonProject.test_click_button_on_katalon.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for KatalonTask2.test_verify_the_title_of_page.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for S001_FirstProject.test_open_vwo_login.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for S001_FirstProject.test_sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for chrome_options.test_chrome_options.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests for test_alerts_and_wait.test_alert_prompt.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in AwesomeQA_Project.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in KatalonProject.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in KatalonTask2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in chrome_options.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_alerts_and_wait.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ebay_Project_with_waits.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Negative_testcase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parallel test.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xpath_ebay_project.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for KatalonProject.test_click_button_on_katalon.executor": "Run",
+    "Python tests.Python tests for KatalonTask2.test_verify_the_title_of_page.executor": "Run",
+    "Python tests.Python tests for S001_FirstProject.test_open_vwo_login.executor": "Run",
+    "Python tests.Python tests for S001_FirstProject.test_sample.executor": "Run",
+    "Python tests.Python tests for chrome_options.test_chrome_options.executor": "Run",
+    "Python tests.Python tests for test_alerts_and_wait.test_alert_prompt.executor": "Run",
+    "Python tests.Python tests in AwesomeQA_Project.py.executor": "Run",
+    "Python tests.Python tests in KatalonProject.py.executor": "Run",
+    "Python tests.Python tests in KatalonTask2.py.executor": "Run",
+    "Python tests.Python tests in Selectbox_dropdown.py.executor": "Run",
+    "Python tests.Python tests in chrome_options.py.executor": "Run",
+    "Python tests.Python tests in svg_part2.py.executor": "Run",
+    "Python tests.Python tests in test_alerts_and_wait.py.executor": "Run",
+    "Python tests.Python tests in test_svg.py.executor": "Run",
+    "Python tests.Python tests in try_except_project.py.executor": "Run",
+    "Python.Ebay_Project_with_waits.executor": "Run",
+    "Python.Negative_testcase.executor": "Run",
+    "Python.parallel test.executor": "Run",
+    "Python.stale_exception.executor": "Run",
+    "Python.xpath_ebay_project.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cw\PycharmProjects\Selenium_ShivaniB\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_alerts_and_wait.test_alert_prompt">
+  <component name="RunManager">
     <configuration name="xpath_ebay_project" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Selenium_ShivaniB" />
       <option name="ENV_FILES" value="" />
@@ -213,11 +223,46 @@
       <option name="project" value="LOCAL" />
       <updated>1751987750957</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="all">
+      <option name="closed" value="true" />
+      <created>1751994005838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1751994005838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="all">
+      <option name="closed" value="true" />
+      <created>1751996332903</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1751996332903</updated>
+    </task>
+    <task id="LOCAL-00007" summary="all">
+      <option name="closed" value="true" />
+      <created>1752049441120</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752049441120</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all" />
     <option name="LAST_COMMIT_MESSAGE" value="all" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Exercise2/svg_part2.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

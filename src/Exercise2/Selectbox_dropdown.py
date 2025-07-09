@@ -16,6 +16,7 @@ def test_select_box_dropdown():
     dropdown = Select(select_html_tag)  #Will give all the select option
 
     dropdown.select_by_visible_text("Option 2")
+    dropdown.select_by_index(1)
 
     time.sleep(5)
 
