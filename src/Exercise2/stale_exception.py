@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import Select
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoSuchElementException, StaleElementReferenceException
 
 def stale_exception():
     driver = webdriver.Chrome()
@@ -19,4 +19,5 @@ def stale_exception():
         print(see)
         print("Stale element reference")
 
+    time.sleep(5)
 stale_exception()

@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fe7a1c-ae63-4933-b49a-26ac268f73e2" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/svg_part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/test_svg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/try_except_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise2/radio_checkbox_project.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Selectbox_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/Selectbox_dropdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +60,7 @@
     "Python tests.Python tests in KatalonTask2.py.executor": "Run",
     "Python tests.Python tests in Selectbox_dropdown.py.executor": "Run",
     "Python tests.Python tests in chrome_options.py.executor": "Run",
+    "Python tests.Python tests in radio_checkbox_project.py.executor": "Run",
     "Python tests.Python tests in svg_part2.py.executor": "Run",
     "Python tests.Python tests in test_alerts_and_wait.py.executor": "Run",
     "Python tests.Python tests in test_svg.py.executor": "Run",
@@ -247,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752049441120</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="all">
+      <option name="closed" value="true" />
+      <created>1752074912346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752074912346</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
