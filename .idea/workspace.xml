@@ -5,9 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fe7a1c-ae63-4933-b49a-26ac268f73e2" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/Exercise2/radio_checkbox_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/Selenium_action_class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/action_class_mouseback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/click_and_hold_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/dynamic_webtable.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/Selectbox_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Selectbox_dropdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/Webtables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Webtables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/radio_checkbox_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/radio_checkbox_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/specific_element_from_webtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/specific_element_from_webtable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/stale_exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/svg_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/svg_part2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/test_alerts_and_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/test_alerts_and_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/test_svg.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/test_svg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/try_except_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/try_except_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2/xpath_ebay_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/xpath_ebay_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/AwesomeQA_Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/AwesomeQA_Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/KatalonProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KatalonProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/KatalonTask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KatalonTask2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/Negative_testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Negative_testcase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/S001_FirstProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/S001_FirstProject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/drag_and_drop_project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/chrome_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/chrome_options.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/parallel_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/parallel_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,14 +80,21 @@
     "Python tests.Python tests in KatalonProject.py.executor": "Run",
     "Python tests.Python tests in KatalonTask2.py.executor": "Run",
     "Python tests.Python tests in Selectbox_dropdown.py.executor": "Run",
+    "Python tests.Python tests in Webtables.py.executor": "Run",
     "Python tests.Python tests in chrome_options.py.executor": "Run",
+    "Python tests.Python tests in dynamic_webtable.py.executor": "Run",
     "Python tests.Python tests in radio_checkbox_project.py.executor": "Run",
+    "Python tests.Python tests in specific_element_from_webtable.py.executor": "Run",
     "Python tests.Python tests in svg_part2.py.executor": "Run",
     "Python tests.Python tests in test_alerts_and_wait.py.executor": "Run",
     "Python tests.Python tests in test_svg.py.executor": "Run",
     "Python tests.Python tests in try_except_project.py.executor": "Run",
     "Python.Ebay_Project_with_waits.executor": "Run",
     "Python.Negative_testcase.executor": "Run",
+    "Python.Selenium_action_class.executor": "Run",
+    "Python.action_class_mouseback.executor": "Run",
+    "Python.click_and_hold_project.executor": "Run",
+    "Python.drag_and_drop_project.executor": "Run",
     "Python.parallel test.executor": "Run",
     "Python.stale_exception.executor": "Run",
     "Python.xpath_ebay_project.executor": "Run",
@@ -77,6 +105,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cw\PycharmProjects\Selenium_ShivaniB\src\Exercise2" />
       <recent name="C:\Users\cw\PycharmProjects\Selenium_ShivaniB\src" />
     </key>
   </component>
@@ -103,36 +132,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for src.Exercises1_Locators.KatalonTask2.test_verify_the_title_of_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_ShivaniB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exercises1_Locators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Exercises1_Locators.KatalonTask2.test_verify_the_title_of_page&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for src.Exercises1_Locators.chrome_options.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Selenium_ShivaniB" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exercises1_Locators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.Exercises1_Locators.chrome_options.test_chrome_options&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests for src.Exercises.KatalonProject.test_click_button_on_katalon" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Selenium_ShivaniB" />
       <option name="ENV_FILES" value="" />
@@ -148,13 +147,43 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for src.Exercises.KatalonTask2.test_verify_the_title_of_page" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_ShivaniB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exercises1_Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.Exercises.KatalonTask2.test_verify_the_title_of_page&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.Exercises.chrome_options.test_chrome_options" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_ShivaniB" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exercises1_Locators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.Exercises.chrome_options.test_chrome_options&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests for test_alerts_and_wait.test_alert_prompt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Selenium_ShivaniB" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exercise2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -167,8 +196,8 @@
       <list>
         <item itemvalue="Python tests.Python tests for test_alerts_and_wait.test_alert_prompt" />
         <item itemvalue="Python.xpath_ebay_project" />
-        <item itemvalue="Python tests.Python tests for src.Exercises1_Locators.chrome_options.test_chrome_options" />
-        <item itemvalue="Python tests.Python tests for src.Exercises1_Locators.KatalonTask2.test_verify_the_title_of_page" />
+        <item itemvalue="Python tests.Python tests for src.Exercises.chrome_options.test_chrome_options" />
+        <item itemvalue="Python tests.Python tests for src.Exercises.KatalonTask2.test_verify_the_title_of_page" />
         <item itemvalue="Python tests.Python tests for src.Exercises.KatalonProject.test_click_button_on_katalon" />
       </list>
     </recent_temporary>
@@ -253,7 +282,23 @@
       <option name="project" value="LOCAL" />
       <updated>1752074912346</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="all">
+      <option name="closed" value="true" />
+      <created>1752159716475</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752159716475</updated>
+    </task>
+    <task id="LOCAL-00010" summary="all">
+      <option name="closed" value="true" />
+      <created>1752252262681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752252262681</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,9 +309,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/src/Exercise2/svg_part2.py</url>
+          <url>file://$PROJECT_DIR$/src/Exercises/svg_part2.py</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/Exercises/Webtables.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
