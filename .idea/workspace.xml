@@ -5,30 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38fe7a1c-ae63-4933-b49a-26ac268f73e2" name="Changes" comment="all">
-      <change afterPath="$PROJECT_DIR$/src/Exercises/Selenium_action_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/action_class_mouseback.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/click_and_hold_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises/dynamic_webtable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/makemytrip_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises/test_windows.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Selectbox_dropdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Selectbox_dropdown.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/Webtables.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Webtables.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/radio_checkbox_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/radio_checkbox_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/specific_element_from_webtable.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/specific_element_from_webtable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/stale_exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/stale_exception.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/svg_part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/svg_part2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/test_alerts_and_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/test_alerts_and_wait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/test_svg.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/test_svg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/try_except_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/try_except_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise2/xpath_ebay_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/xpath_ebay_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/AwesomeQA_Project.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/AwesomeQA_Project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/KatalonProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KatalonProject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/KatalonTask2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/KatalonTask2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/Negative_testcase.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/Negative_testcase.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/S001_FirstProject.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/S001_FirstProject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/drag_and_drop_project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/chrome_options.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/chrome_options.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercises1_Locators/parallel_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercises/parallel_test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +67,7 @@
     "Python tests.Python tests in svg_part2.py.executor": "Run",
     "Python tests.Python tests in test_alerts_and_wait.py.executor": "Run",
     "Python tests.Python tests in test_svg.py.executor": "Run",
+    "Python tests.Python tests in test_windows.py.executor": "Run",
     "Python tests.Python tests in try_except_project.py.executor": "Run",
     "Python.Ebay_Project_with_waits.executor": "Run",
     "Python.Negative_testcase.executor": "Run",
@@ -298,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752252262681</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="all">
+      <option name="closed" value="true" />
+      <created>1752306947890</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752306947890</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
